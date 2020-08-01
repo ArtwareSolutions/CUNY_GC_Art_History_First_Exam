@@ -1,2 +1,5 @@
-# CUNY_GC_Modern_Art_First_Exam
-CUNY Graduate Center - Art History PhD program - Modern art First Exam
+# CUNY Graduate Center - Art History PhD program
+
+## Modern Art First Exam
+
+ANKI flashcards to be imported using the CrowdAnki add-on: https://ankiweb.net/shared/info/1788670778
