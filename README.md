@@ -12,7 +12,7 @@ Recommended ANKI add-ons
 - [Batch Editing](https://ankiweb.net/shared/info/291119185) 291119185
 - [ANKI Simulator](https://ankiweb.net/shared/info/817108664) 817108664
 - [Advanced Browser](https://ankiweb.net/shared/info/874215009) 874215009
-- [CrowdANKI](https://ankiweb.net/shared/info/1788670778)1788670778
+- [CrowdANKI](https://ankiweb.net/shared/info/1788670778) 1788670778
 - [More Decks Stats and Time Left](https://ankiweb.net/shared/info/1556734708) 1556734708
 - [Progress Graphs and Stats for Learned and Matured Cards](https://ankiweb.net/shared/info/266436365) 266436365
 - [Speed Focus Mode](https://ankiweb.net/shared/info/1046608507) 1046608507
