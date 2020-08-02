@@ -5,3 +5,6 @@
 [ANKI](https://apps.ankiweb.net) flashcards to be imported using the [CrowdAnki add-on](https://ankiweb.net/shared/info/1788670778)
 
 ![ANKI ScreenShot](/images/ANKI_ScreenShot.png)
+
+Recommended ANKI add-ons
+![ANKI add-ons](/images/ANKI_add-ons.png)
