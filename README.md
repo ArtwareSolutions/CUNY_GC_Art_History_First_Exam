@@ -19,4 +19,6 @@ Recommended ANKI add-ons
 
 ![ANKI add-ons](/images/ANKI_add-ons.png)
 
-How to change ANKI card background depending on field value: https://chrisk91.me/2018/02/17/CSS-in-Anki-Beyond-basic-use.html
+Change ANKI card background depending on field value: https://chrisk91.me/2018/02/17/CSS-in-Anki-Beyond-basic-use.html
+
+![ANKI change card background](/images/ANKI_change_card_background.png)
